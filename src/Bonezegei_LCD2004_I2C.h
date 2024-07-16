@@ -13,9 +13,9 @@
        P6    D6
        P7    D7
 */
+#ifndef _BONEZEGEI_LCD2004_I2C_H_
+#define _BONEZEGEI_LCD2004_I2C_H_
 
-#define _BONEZEGEI_LCD2004_I2C_H_
-#define _BONEZEGEI_LCD2004_I2C_H_
 #include <Arduino.h>
 #include <Wire.h>
 
